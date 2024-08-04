@@ -9,6 +9,10 @@ Originally designed on
 - Mac OS X Sonoma 14.5 23F79 arm64
 - Darwin 23.5.0
 
+-----
+
+![Alt text](window.png "Terminal with Panes")
+
 Also compatible (most options) with Linux RHEL9 and Xwindows desktop managers.
 
 Requires some modification for optimal UI/UX on Wayland.
